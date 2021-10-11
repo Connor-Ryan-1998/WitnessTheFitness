@@ -88,17 +88,6 @@ After developing the figma model with interactions the same participants as prev
 ### High Fidelity Prototype
 [Instroduce]
 [Instructions]
-#### Dependencies
-
-* X
-
-#### Installing
-
-* X
-
-#### Executing program
-
-* X
 
 #### User Testing Evaluation
 
