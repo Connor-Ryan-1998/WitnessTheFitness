@@ -60,8 +60,8 @@ Analysing these results, drawing from both research conducted and data collectio
 After establishing a set of initial design requirements the team established an initial user flow of logical tasks that our target audience would take.
 [IMGS]
 
-### Low Fidelity Prototype Sketch
-With this user flow and design requirements the team listed a set of features and functions from this user flow and sketched a low-fidelity prototype 
+### Low Fidelity Prototype ---> [Figma Model](https://www.figma.com/file/3UpyBwqtW8qMMIbVYR6Uh9/Untitled?node-id=0%3A1) 
+With this user flow and design requirements the team listed a set of features and functions from this user flow and figma low-fidelity prototype 
 [IMGS]
 
 ### User Testing Evaluation
@@ -73,7 +73,7 @@ To understand whether this addressed our target audience's problem space, the te
 * Unhappy with selection of interests choices seemed limiting potential socialinteractions
 
 ## Medium Fidelity Prototype
-### Medium Fidelity Prototype  ---> [Figma Model](https://www.figma.com/file/3UpyBwqtW8qMMIbVYR6Uh9/Untitled?node-id=0%3A1) 
+### Medium Fidelity Prototype  ---> [Adobe XD Model](https://xd.adobe.com/view/26fef389-275e-43b5-8dac-a4a43e1d5cce-73ad/grid) 
 Considering the feedback from the low-fidelity prototype testing, the team integrated this with subtle design choice changes to address those concerns of participants. The medium-fidelity prototype was constructed in figma. 
 
 ### User Testing Evaluation
