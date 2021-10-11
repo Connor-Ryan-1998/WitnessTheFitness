@@ -91,6 +91,9 @@ After developing the figma model with interactions the same participants as prev
 
 #### User Testing Evaluation
 
+## Brochure
+## Kickstarter Video 
+## Website 
 ## Conclusion 
 
 ## References
