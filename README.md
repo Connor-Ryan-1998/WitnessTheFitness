@@ -11,7 +11,7 @@ As a team we have identified a target audience of young gym experienced and newc
 
 ## Process Documentation
 
-### Project Proposal Link - [INSERT LINK]
+### Concept Proposal Link ---> [Concept Proposal](https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/Concept%20Proposal%20-%20Final.pdf)
 
 ### Research Paper Summaries
 Prior to design and development the team investigated our domain of social interactions and collaborations in the gym environment. This was firstly by analysing and summarising scholar research papers within the domain. Key findings and ideas is illustrated below:
@@ -43,7 +43,7 @@ After establishing the problem space of a lack of social collaboration and inter
 
 ### Requirements
 ![alt text](https://www.researchgate.net/profile/John-Lee-77/publication/319402797/figure/fig3/AS:533451872509957@1504196245652/Understand-create-evaluate-design-cycle.png)
-[REFEREBCE THIS]
+[1]
 
 Analysing these results, drawing from both research conducted and data collection, the team developed an initial set of design requirements for our low fidelity prototype. These design requirements were flexible to change with  a three phase cycle established at each prototype interaction. In doing so it is expected that our MVP will address the problem space for our target audience. The initial set of design requirements include the following: 
 
@@ -73,7 +73,7 @@ To understand whether this addressed our target audience's problem space, the te
 * Unhappy with selection of interests choices seemed limiting potential socialinteractions
 
 ## Medium Fidelity Prototype
-### Medium Fidelity Prototype Figma Model
+### Medium Fidelity Prototype  ---> [Figma Model](https://www.figma.com/file/3UpyBwqtW8qMMIbVYR6Uh9/Untitled?node-id=0%3A1) 
 Considering the feedback from the low-fidelity prototype testing, the team integrated this with subtle design choice changes to address those concerns of participants. The medium-fidelity prototype was constructed in figma. 
 
 ### User Testing Evaluation
@@ -94,7 +94,7 @@ After developing the figma model with interactions the same participants as prev
 ## Conclusion 
 
 ## References
-
+[1] ResearchGate, 3 Understand, create, evaluate design cycle. 2021.
 
 ---------------------------------------------------------------------------------------
 
