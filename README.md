@@ -93,7 +93,18 @@ After developing the figma model with interactions the same participants as prev
 
 ## Brochure
 ## Kickstarter Video 
-## Website 
+## Website
+## Task Allocation
+| Student                       | Tasks                                                                   |
+|-------------------------------|-------------------------------------------------------------------------|
+| Lachlan Wardropper (44397580) | Initial interviews / surveys, documentation, prototype layout           |
+| Nikhil Naik (45293858)        | Initial interviews / research, documentation                            |
+| Fuxin Lu (46594646)           | Conference poster, brochure                                             |
+| Connor Ryan (44342003)        | Prototype layout and functionality                                      |
+| Kwan Ho Yip (44764155)        | Low-fidelity design, promotional website, brochure                      |
+| Thuy Trieu Pham (46451570)    | Low-fidelity design, user testing, design iteration, marketing material |
+| Hyun Jeon (42865320)          | Low-fidelity design, prototype layout and functionality                 |
+
 ## Conclusion 
 
 ## References
