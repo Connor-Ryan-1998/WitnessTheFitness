@@ -9,7 +9,9 @@ The domain the team will be exploring is the lack of social interaction within a
 As a team we have identified the target audience as young gym-goers who are both experienced and newcomers. In particular, we are aiming our solution at those who attend the gym 3-4 times a week before or after work. Furthermore, these people do not train in class environments and do not know the majority of their gym from other social circles. These people value both social interaction as well as collaboration in the gym environment. From our research and interview data probing conducted, this was reinforced by participants wanting the practice of collaboration and relationship building within the gym environment. We also found with our target audience, their motivation behind this collaboration stemmed from both continuity in their gym routine as well as establishing new relationships with people with similar aligning interests. [REF] 
 
 ## Brochure
-## Kickstarter Video 
+## Kickstarter Video ---> [Link To Video](https://youtu.be/vSR7ZIP2E0s)
+[![](https://i.ytimg.com/vi/vSR7ZIP2E0s/maxresdefault.jpg)](https://youtu.be/vSR7ZIP2E0s "DECO3500 | WitnessTheFitness | Kickstarter Promotional Video")
+
 ## Website
 
 ## Process Documentation
@@ -110,3 +112,5 @@ After developing the figma model with interactions the same participants as prev
 
 ## References
 [1] ResearchGate, 3 Understand, create, evaluate design cycle. 2021.
+
+[2] https://www.pexels.com/videos/
