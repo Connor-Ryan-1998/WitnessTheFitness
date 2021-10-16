@@ -1,6 +1,6 @@
 <template>
   <v-app dark>
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-model="drawer"
       :mini-variant="miniVariant"
       :clipped="clipped"
@@ -38,14 +38,14 @@
       </v-btn>
       <v-toolbar-title v-text="title" />
       <v-spacer />
-    </v-app-bar>
+    </v-app-bar> -->
     <v-main>
       <v-container>
         <Nuxt />
       </v-container>
     </v-main>
     <v-footer
-      :absolute="!fixed"
+      :absolute="fixed"
       app
     >
       <span>&copy; {{ new Date().getFullYear() }}</span>
@@ -65,6 +65,11 @@ export default {
           icon: 'mdi-apps',
           title: 'HOME',
           to: '/'
+        },
+        {
+          icon: 'mdi-apps',
+          title: 'Leaderboard',
+          to: '/leaderboard'
         }
       ],
       miniVariant: false,
