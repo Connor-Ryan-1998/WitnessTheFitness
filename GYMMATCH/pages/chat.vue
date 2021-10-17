@@ -133,4 +133,5 @@
   #leaderboardTop3{
     padding: 10%;
   }
+  
 </style>
