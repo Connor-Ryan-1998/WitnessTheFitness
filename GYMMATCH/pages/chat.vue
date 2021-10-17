@@ -14,9 +14,8 @@
                     hide-selected
                     item-text="Description"
                     item-value="API"
-                    label="Public APIs"
+                    label="Search..."
                     placeholder="Start typing to Search"
-                    prepend-icon="mdi-database-search"
                     return-object
                 ></v-autocomplete>
             </v-card-text>
@@ -31,94 +30,14 @@
         </v-card-subtitle>
     </v-card>
       <v-card class="pa-md-6 mx-lg-auto">
-        <v-row id="leaderboardTop3">
-          <v-col justify="center" align="center">
-            <v-row justify="center" align="center"  style="padding-bottom: 5%;">
-              <v-badge
-              bordered
-              overlap
-              bottom
-              content="2"
-              color="grey"
-              offset-x="50">
-                <v-avatar style = "border: 3px solid silver;"
-                  size="80"
-                  rounded = "true">
-                 <img
-                  src="https://images.freeimages.com/images/large-previews/e71/frog-1371919.jpg"
-                  alt="JF"
-                 >
-                </v-avatar>
-              </v-badge>
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Julia Frydenburg
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
-              90
-            </v-row>
-          </v-col >
-          <v-col justify="center" align="center">
-            <v-row justify="center" align="center"  style="padding-bottom: 5%;">
-              <v-badge
-              bordered
-              overlap
-              bottom
-              content="1"
-              color="yellow"
-              offset-x="60">
-                <v-avatar style = "border: 3px solid gold;"
-                  size="100"
-                  rounded = "true">
-                  <img
-                  src="https://images.freeimages.com/images/large-previews/70f/clouds-1371112.jpg"
-                  alt="JF"
-                 >
-                </v-avatar>
-              </v-badge>
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Scott Morrison
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
-              100
-            </v-row>
-          </v-col>
-          <v-col justify="center" align="center">
-            <v-row justify="center" align="center"  style="padding-bottom: 5%;">
-              <v-badge
-              bordered
-              overlap
-              bottom
-              content="3"
-              color="brown"
-              offset-x="50">
-                <v-avatar style = "border: 3px solid brown;"
-                  size="80"
-                  rounded = "true">
-                 <img
-                  src="https://cdn.vuetifyjs.com/images/john.jpg"
-                  alt="JF"
-                 >
-                </v-avatar>
-              </v-badge>
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Kevin Rudd
-            </v-row>
-            <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
-              70
-            </v-row>
-          </v-col>
-        </v-row>
-        <v-list-item v-for="(name, i) in top10users" :key="name">
+        <v-list-item v-for="(name, i) in top10users" :key="name" href="/exampleChat" target="_blank">
           <v-badge 
               bordered
               overlap
-              left
-              :content = "i + 4"
-              color="#E94057"
-              offset-y="60">
+              right
+              color="#84C857"
+              offset-y="30"
+              offset-x="30">
             <v-list-item-avatar 
               size="80"
               color="grey"
@@ -130,13 +49,24 @@
             </v-list-item-avatar>
           </v-badge>
           <v-list-item-content>
-            <v-list-item-title class="text-h5 mb-1" to="/">
-              {{ name }}
+            <v-badge v-if="i == 0 || i == 1"
+              bordered
+              overlap
+              right
+              color="#E24E59"
+              offset-y="30"
+              offset-x="30">
+                <v-list-item-title class="text-h5 mb-1" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
+                {{ name }}
+                </v-list-item-title>
+            </v-badge>
+            <v-list-item-title v-else class="text-h5 mb-1" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
+                {{ name }}
             </v-list-item-title>
-            <v-list-item-subtitle v-if="i == 0" style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .5;">Your current rank</v-list-item-subtitle>
+            <v-list-item-subtitle style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .5;">{{ textEntries[i] }} </v-list-item-subtitle>
           </v-list-item-content>
-           <v-col justify="right" align="right" style="font-family: Arial;font-size: 15pt;color:#E94057;">
-             {{69 - Math.floor(Math.random() + i)}}
+           <v-col justify="right" align="right" style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .3;">
+             {{Math.floor(Math.random() * i) + 2}} minutes ago
            </v-col>
         </v-list-item>
       </v-card>
@@ -150,12 +80,12 @@
     data () {
       return {
         top10users: [
+          'Blair Dota',
+          'Connor Ryan',
           'Monica Geller',
           'Julian Dasilvia',
           'Mike Lyne',
           'Claire Kumas',
-          'Blair Dota',
-          'Connor Ryan',
           'Dendi Navidad',
         ],
         model: 0,
@@ -164,6 +94,15 @@
           'https://picsum.photos/300/200',
           'https://picsum.photos/500/200'
         ],
+        textEntries: [
+            'Hey!',
+            'Good gym session',
+            'Almost there',
+            'And there we go',
+            'See you next time!',
+            'Nice to meet you',
+            'Legs day was solid'
+          ]
       }
     },
   }
