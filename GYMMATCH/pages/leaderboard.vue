@@ -100,8 +100,8 @@
               color="grey"
               rounded = "true"
             >
-            <v-img v-for="(url) in images" :key="url"
-            :src="url"
+            <v-img
+            :src="images[i]"
             ></v-img>
             </v-list-item-avatar>
           </v-badge>
@@ -136,9 +136,13 @@
         ],
         model: 0,
         images: [
-          'https://picsum.photos/600/200',
-          'https://picsum.photos/300/200',
-          'https://picsum.photos/500/200'
+          'https://picsum.photos/id/190/200/300',
+          'https://picsum.photos/id/400/200/300',
+          'https://picsum.photos/id/160/200/300',
+          'https://picsum.photos/id/150/200/300',
+          'https://picsum.photos/id/237/200/300',
+          'https://picsum.photos/id/200/200/300',
+          'https://picsum.photos/id/300/200/300',
         ],
       }
     },
