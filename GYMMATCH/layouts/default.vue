@@ -40,15 +40,53 @@
       <v-spacer />
     </v-app-bar> -->
     <v-main>
-      <v-container>
-        <Nuxt />
-      </v-container>
+      <Nuxt />
     </v-main>
+    <v-bottom-navigation
+      app
+      fixed
+      v-model="value"
+      :input-value="active"
+      color="#E94057"
+      shift
+      grow
+    >
+      <v-btn to="/leaderboard" nuxt>
+        <span>Leaderboard</span>
+
+        <v-icon>mdi-chart-bar</v-icon>
+      </v-btn>
+      
+      <v-btn>
+        <span>Matching</span>
+        
+        <v-icon>mdi-human-greeting-proximity</v-icon>
+      </v-btn>
+
+      <v-btn>
+        <span>Notification</span>
+        
+        <v-icon>mdi-bell</v-icon>
+      </v-btn>
+
+      <v-btn to="/chat" nuxt>
+        <span>Messages</span>
+        
+        <v-icon>mdi-message-processing</v-icon>
+      </v-btn>
+
+      <v-btn>
+        <span>Profile</span>
+        
+        <v-icon>mdi-account</v-icon>
+      </v-btn>
+    </v-bottom-navigation>
     <v-footer
-      :absolute="fixed"
+      padless
+      absolute
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{ new Date().getFullYear() }} GYMATCH - built by Team WitnessFirst using nuxt.js with Vuetify</span>
     </v-footer>
   </v-app>
 </template>
@@ -60,6 +98,8 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
+      value: 1,
+      active: true,
       items: [
         {
           icon: 'mdi-apps',

@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
+    <v-col cols="12" sm="6" md="6">
       <v-card class="pa-md-6 mx-lg-auto"  id="leaderboardHeaderCard">
         <v-card-title class="justify-center">
             <v-card-text>
