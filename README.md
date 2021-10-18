@@ -8,7 +8,7 @@ The domain the team will be exploring is the lack of social interaction within a
 ### Target Audience
 As a team we have identified the target audience as young gym-goers who are both experienced and newcomers. In particular, we are aiming our solution at those who attend the gym 3-4 times a week before or after work. Furthermore, these people do not train in class environments and do not know the majority of their gym from other social circles. These people value both social interaction as well as collaboration in the gym environment. From our research and interview data probing conducted, this was reinforced by participants wanting the practice of collaboration and relationship building within the gym environment. We also found with our target audience, their motivation behind this collaboration stemmed from both continuity in their gym routine as well as establishing new relationships with people with similar aligning interests. [REF] 
 
-## Poster ---> [Link to Poster](https://www.canva.com/design/DAEs3KBtdNg/3mH1avzgusoS6sdL0D-nJQ/view?utm_content=DAEs3KBtdNg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+## Poster ---> [Link To Poster](https://www.canva.com/design/DAEs3KBtdNg/3mH1avzgusoS6sdL0D-nJQ/view?utm_content=DAEs3KBtdNg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 ## Kickstarter Video ---> [Link To Video](https://youtu.be/vSR7ZIP2E0s)
 [![](https://i.ytimg.com/vi/vSR7ZIP2E0s/maxresdefault.jpg)](https://youtu.be/vSR7ZIP2E0s "DECO3500 | WitnessTheFitness | Kickstarter Promotional Video")
 
