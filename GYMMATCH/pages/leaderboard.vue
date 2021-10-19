@@ -21,14 +21,14 @@
                   size="80"
                   rounded = "true">
                  <img
-                  src="https://images.freeimages.com/images/large-previews/e71/frog-1371919.jpg"
+                  src="https://picsum.photos/id/400/200/300"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Julia Frydenburg
+              Julia Dasilva
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               90
@@ -47,14 +47,14 @@
                   size="100"
                   rounded = "true">
                   <img
-                  src="https://images.freeimages.com/images/large-previews/70f/clouds-1371112.jpg"
+                  src="https://cdn.vuetifyjs.com/images/john.jpg"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Scott Morrison
+              Tom Nook
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               100
@@ -73,14 +73,14 @@
                   size="80"
                   rounded = "true">
                  <img
-                  src="https://picsum.photos/id/190/200/300"
+                  src="https://picsum.photos/id/160/200/300"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Kevin Rudd
+              Mike Lyne
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               70
