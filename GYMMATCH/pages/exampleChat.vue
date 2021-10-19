@@ -6,9 +6,9 @@
             <h3 id="messagesTitle">Direct Message</h3>
         </v-card-title>
       </v-card>
-    <v-card class="pa-md-6 mx-lg-auto">
-      <v-container class="fill-height">
-        <v-row class="fill-height pb-14" align="end">
+    <v-card class="pa-md-6 mx-lg-auto" style="height: 35em; overflow-y: auto;">
+      <v-container>
+        <v-row class="pb-14" align="end">
           <v-col>
             <div v-for="(item, index) in chat" :key="index" 
                 :class="['d-flex flex-row align-center my-2', item.from == 'me' ? 'justify-end': null]">
@@ -16,7 +16,7 @@
               <v-avatar :color="item.from == 'me' ? 'indigo': 'red'" size="36">
                 <span class="white--text">{{ item.from[0] }}</span>
               </v-avatar>
-              <span v-if="item.from != 'me'" class="blue--text ml-3">{{ item.msg[responseIndex] }}</span>
+              <span v-if="item.from != 'me'" class="blue--text ml-3">{{ item.msg }}</span>
             </div>
           </v-col>
         </v-row>
@@ -57,6 +57,7 @@
           ],
         msg: null,
         responseIndex: 0,
+        botResponse: ["Yes", "thank you","please", "Amazing", "Thats's cool", "Amazing", "Nice", "Okay!"],
       }
     },
       methods: {
@@ -66,14 +67,14 @@
           from: "me",
           msg: this.msg
         })
-        this.responseIndex = Math.floor(Math.random() * 6);
+        this.responseIndex = Math.floor(Math.random() * 5)
         this.msg = null
         this.addReply()
       },
       addReply(){
         this.chat.push({
           from: "user",
-          msg: ["Yes", "thank you","please", "Amazing", "Thats's cool"]
+          msg: this.botResponse[this.responseIndex]
         })
       }
     }
