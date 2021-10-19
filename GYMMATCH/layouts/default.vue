@@ -57,7 +57,7 @@
         <v-icon>mdi-chart-bar</v-icon>
       </v-btn>
       
-      <v-btn>
+      <v-btn to="/match">
         <span>Matching</span>
         
         <v-icon>mdi-human-greeting-proximity</v-icon>
@@ -97,7 +97,7 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
-      value: 1,
+      value: 0,
       active: true,
       items: [
         {
