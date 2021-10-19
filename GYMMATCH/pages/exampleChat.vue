@@ -5,21 +5,18 @@
         <v-card-title class="justify-left">
             <h3 id="messagesTitle">Direct Message</h3>
         </v-card-title>
-        <v-card-subtitle class="justify-left">
-            <h3 id="messagesSubtitle">You have 2 new messages</h3>
-        </v-card-subtitle>
       </v-card>
     <v-card class="pa-md-6 mx-lg-auto">
       <v-container class="fill-height">
         <v-row class="fill-height pb-14" align="end">
           <v-col>
             <div v-for="(item, index) in chat" :key="index" 
-                :class="['d-flex flex-row align-center my-2', item.from == 'user' ? 'justify-end': null]">
-              <span v-if="item.from == 'user'" class="blue--text mr-3">{{ item.msg }}</span>
-              <v-avatar :color="item.from == 'user' ? 'indigo': 'red'" size="36">
+                :class="['d-flex flex-row align-center my-2', item.from == 'me' ? 'justify-end': null]">
+              <span v-if="item.from == 'me'" class="blue--text mr-3">{{ item.msg }}</span>
+              <v-avatar :color="item.from == 'me' ? 'indigo': 'red'" size="36">
                 <span class="white--text">{{ item.from[0] }}</span>
               </v-avatar>
-              <span v-if="item.from != 'user'" class="blue--text ml-3">{{ item.msg }}</span>
+              <span v-if="item.from != 'me'" class="blue--text ml-3">{{ item.msg[responseIndex] }}</span>
             </div>
           </v-col>
         </v-row>
@@ -59,22 +56,24 @@
         chat: [
           ],
         msg: null,
+        responseIndex: 0,
       }
     },
       methods: {
       send: function(){
         this.chat.push(
         {
-          from: "user",
+          from: "me",
           msg: this.msg
         })
+        this.responseIndex = Math.floor(Math.random() * 6);
         this.msg = null
         this.addReply()
       },
       addReply(){
         this.chat.push({
-          from: "sushant",
-          msg: "Hmm"
+          from: "user",
+          msg: ["Yes", "thank you","please", "Amazing", "Thats's cool"]
         })
       }
     }
@@ -89,11 +88,7 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif ;
   }
-    #messagesSubtitle{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif ;
-    font-size: 14pt;
-    opacity: 0.3;
+  #messageBox{
   }
   #leaderboardTop3{
     padding: 10%;

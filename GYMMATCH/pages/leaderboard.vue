@@ -111,8 +111,21 @@
             </v-list-item-title>
             <v-list-item-subtitle v-if="i == 0" style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .5;">Your current rank</v-list-item-subtitle>
           </v-list-item-content>
-           <v-col justify="right" align="right" style="font-family: Arial;font-size: 15pt;color:#E94057;">
-             {{69 - Math.floor(Math.random() + i)}}
+           <v-col v-if="i != 0" justify="right" align="right" style="font-family: Arial;font-size: 15pt;color:#E94057;">
+              <v-btn
+                class="ma-2"
+                text
+                icon
+                color="red lighten-2"
+                href="/exampleChat"
+              >
+                <v-icon
+                  medium
+                  color="teal darken-2"
+                >
+                  mdi-message-processing
+                </v-icon>
+              </v-btn>
            </v-col>
         </v-list-item>
       </v-card>

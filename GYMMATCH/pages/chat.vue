@@ -82,7 +82,6 @@
         top10users: [
           'Blair Dota',
           'Connor Ryan',
-          'Monica Geller',
           'Julian Dasilvia',
           'Mike Lyne',
           'Claire Kumas',
@@ -92,7 +91,6 @@
         images: [
           'https://picsum.photos/id/190/200/300',
           'https://picsum.photos/id/400/200/300',
-          'https://picsum.photos/id/160/200/300',
           'https://picsum.photos/id/150/200/300',
           'https://picsum.photos/id/237/200/300',
           'https://picsum.photos/id/200/200/300',
