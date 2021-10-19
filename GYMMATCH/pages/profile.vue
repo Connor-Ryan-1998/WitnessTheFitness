@@ -140,7 +140,6 @@
           </v-btn>
           <v-btn id="interest" rounded color="gray" outlined> Weights </v-btn>
           <v-btn id="interest" rounded color="gray" outlined> Boxing </v-btn>
-          <v-btn id="interest" rounded color="gray" outlined> Crossfit </v-btn>
         </v-row>
         <v-row id="infoHeading" style="font-family: Arial;font-size: 12pt;">
         <v-col style="flex-grow: 0; padding-left: 30px">

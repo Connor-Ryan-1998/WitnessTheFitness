@@ -63,10 +63,10 @@
         <v-icon>mdi-human-greeting-proximity</v-icon>
       </v-btn>
 
-      <v-btn>
-        <span>Notification</span>
+      <v-btn to="/friends" nuxt>
+        <span>Friends</span>
         
-        <v-icon>mdi-bell</v-icon>
+        <v-icon>mdi-account-group</v-icon>
       </v-btn>
 
       <v-btn to="/chat" nuxt>
