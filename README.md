@@ -12,7 +12,10 @@ As a team we have identified the target audience as young gym-goers who are both
 ## Kickstarter Video ---> [Link To Video](https://youtu.be/vSR7ZIP2E0s)
 [![](https://i.ytimg.com/vi/vSR7ZIP2E0s/maxresdefault.jpg)](https://youtu.be/vSR7ZIP2E0s "DECO3500 | WitnessTheFitness | Kickstarter Promotional Video")
 
-## Website (https://qq7344.github.io/witnesstheFitness.github.io/)
+## Website ---> [Link To Website](https://qq7344.github.io/witnesstheFitness.github.io/)
+
+## Brochure ---> [Link To Brochure](https://user-images.githubusercontent.com/53187276/137961111-1c23f6db-51b9-4091-acc3-acf21cad90a3.jpg)
+
 
 ## Process Documentation
 
