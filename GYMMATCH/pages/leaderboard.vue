@@ -73,7 +73,7 @@
                   size="80"
                   rounded = "true">
                  <img
-                  src="https://cdn.vuetifyjs.com/images/john.jpg"
+                  src="https://picsum.photos/id/190/200/300"
                   alt="JF"
                  >
                 </v-avatar>
@@ -139,7 +139,7 @@
     data () {
       return {
         top10users: [
-          'Monica Geller',
+          'Tom Nook',
           'Julian Dasilvia',
           'Mike Lyne',
           'Claire Kumas',
@@ -149,7 +149,7 @@
         ],
         model: 0,
         images: [
-          'https://picsum.photos/id/190/200/300',
+          'https://cdn.vuetifyjs.com/images/john.jpg',
           'https://picsum.photos/id/400/200/300',
           'https://picsum.photos/id/160/200/300',
           'https://picsum.photos/id/150/200/300',

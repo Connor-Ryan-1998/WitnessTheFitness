@@ -55,7 +55,7 @@
               right
               color="#E24E59"
               offset-y="30"
-              offset-x="30">
+              offset-x="120">
                 <v-list-item-title class="text-h5 mb-1" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
                 {{ name }}
                 </v-list-item-title>
