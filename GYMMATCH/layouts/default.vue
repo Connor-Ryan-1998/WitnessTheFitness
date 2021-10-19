@@ -75,7 +75,7 @@
         <v-icon>mdi-message-processing</v-icon>
       </v-btn>
 
-      <v-btn>
+      <v-btn to="/profile" nuxt>
         <span>Profile</span>
         
         <v-icon>mdi-account</v-icon>
@@ -86,7 +86,6 @@
       absolute
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }} GYMATCH - built by Team WitnessFirst using nuxt.js with Vuetify</span>
     </v-footer>
   </v-app>
 </template>
