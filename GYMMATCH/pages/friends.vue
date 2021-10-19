@@ -37,6 +37,11 @@
                     mdi-message-processing
                 </v-icon>
                 </nuxt-link>
+                <nuxt-link to="/users/1" class="routerLink">
+                <v-icon color="#e94057">
+                    mdi-account-multiple-plus
+                </v-icon>
+                </nuxt-link>
            </v-col>
         </v-list-item>
       </v-card>
