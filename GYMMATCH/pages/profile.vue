@@ -15,7 +15,7 @@
         bottom
         icon="mdi-camera-plus"
         large
-        color="#E94057"
+        color="white"
         offset-x="10"
         offset-y="10"
         >
@@ -41,12 +41,15 @@
             <h3 style="font-family: Arial;font-size: 12pt;">Personal Information</h3>
         </v-col>
         <v-col style="flex-grow: 0; padding-right: 50px;">
-            <v-icon
-                medium
-                color="#E24E59"
+            <v-btn
+              fab
+              icon
+              small
             >
-            edit
-            </v-icon>
+              <v-icon color="#E24E59">
+                edit
+              </v-icon>
+            </v-btn>
         </v-col>
         </v-row>
         <v-list one-line style="font-family: Arial;font-size: 14pt;">
@@ -120,12 +123,15 @@
             <h3 style="font-family: Arial;font-size: 12pt;">Interests</h3>
         </v-col>
         <v-col style="flex-grow: 0; padding-right: 50px;">
-            <v-icon
-                medium
-                color="#E24E59"
+            <v-btn
+              fab
+              icon
+              small
             >
-            edit
-            </v-icon>
+              <v-icon color="#E24E59">
+                edit
+              </v-icon>
+            </v-btn>
         </v-col>
         </v-row>
         <v-row id="interestButtons">
@@ -140,7 +146,6 @@
           </v-btn>
           <v-btn id="interest" rounded color="gray" outlined> Weights </v-btn>
           <v-btn id="interest" rounded color="gray" outlined> Boxing </v-btn>
-          <v-btn id="interest" rounded color="gray" outlined> Crossfit </v-btn>
         </v-row>
         <v-row id="infoHeading" style="font-family: Arial;font-size: 12pt;">
         <v-col style="flex-grow: 0; padding-left: 30px">
@@ -156,12 +161,15 @@
             <h3 style="font-family: Arial;font-size: 12pt;">Available Sessions</h3>
         </v-col>
         <v-col style="flex-grow: 0; padding-right: 50px;">
-            <v-icon
-                medium
-                color="#E24E59"
+            <v-btn
+              fab
+              icon
+              small
             >
-            edit
-            </v-icon>
+              <v-icon color="#E24E59">
+                edit
+              </v-icon>
+            </v-btn>
         </v-col>
         </v-row>
         <v-list one-line style="font-family: Arial;font-size: 14pt;">
