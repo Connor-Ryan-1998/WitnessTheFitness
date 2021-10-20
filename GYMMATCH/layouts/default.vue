@@ -50,6 +50,7 @@
       color="#E94057"
       shift
       grow
+      height="60px"
     >
       <v-btn to="/leaderboard" nuxt>
         <span>Leaderboard</span>
