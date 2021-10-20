@@ -50,7 +50,6 @@ After establishing the problem space of a lack of social collaboration and inter
 
 ### Requirements
 ![alt text](https://www.researchgate.net/profile/John-Lee-77/publication/319402797/figure/fig3/AS:533451872509957@1504196245652/Understand-create-evaluate-design-cycle.png)
-[1]
 
 Analysing these results, drawing from both research conducted and data collection, the team developed an initial set of design requirements for our low fidelity prototype. These design requirements were flexible to change with  a three phase cycle established at each prototype interaction. In doing so it is expected that our MVP will address the problem space for our target audience. The initial set of design requirements include the following: 
 
