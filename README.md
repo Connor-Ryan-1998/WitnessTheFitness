@@ -1,5 +1,4 @@
-# Witness The Fitness [DRAFT]
-# Social Collaboratation In The Gym 
+# Witness The Fitness "Social Collaboratation In The Gym"
 
 ## Summary
 ### Problem identification
@@ -145,11 +144,7 @@ After deploying our web based mobile application, the team intragted the same pa
 * Communicating digitally prior to physically reduces "awrkwardness" or "breaks the ice"
 
 ## Conclusion 
-With the process of problem identification, research, user interviews, protyping and evaluation the team was able to develop a solution within our domain. We were able to successfully offer a mobile solution tool that 
-
-Limitations
-Future Work
-End Note
+With the process of problem identification, research, user interviews, protyping and evaluation the team was able to develop a solution within our domain. We were able to successfully offer a mobile solution tool that encourages social collaboration within the gym environment, for our target audience of  young gym-goers who are both experienced and newcomers. In terms of future work, the team would like more data evaluation by deploying the application in the real world environment, to understand if new insights or understadings arise. As well as implemnting a serverside functionality to allow peer to peer messaging, storing and hosting data as well as replacing static elements with dynamic elements. Furthermore from evalutions more design considerations need to be made within privacy and HCI principles. 
 
 ## Task Allocation
 | Student                       | Tasks                                                                   |
