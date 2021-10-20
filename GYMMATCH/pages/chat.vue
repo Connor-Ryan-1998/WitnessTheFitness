@@ -52,6 +52,7 @@
             <v-badge v-if="i == 0 || i == 1"
               inline
               right
+              dot
               color="#E24E59"
               offset-y="30"
               offset-x="120">
