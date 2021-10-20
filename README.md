@@ -158,12 +158,20 @@ With the process of problem identification, research, user interviews, protyping
 | Hyun Jeon (42865320)          | Low-fidelity design, prototype layout and functionality                 |
 
 ## References 
-"Pixabay" (2021). Retrieved 20 October 2021, from https://pixabay.com/
+"Pixabay" (2021). Retrieved 20 October 2021, from https://pixabay.com/ [Accessed: 22- Sep- 2021].
+
 "77 Gym Membership Statistics, Facts, and Trends [2020/2021]", Athletic shoe reviews, 2021. [Online]. Available: https://runrepeat.com/gym-membership-statistics. [Accessed: 18- Aug- 2021].
+
 "Strong relationships, strong health - Better Health Channel", Betterhealth.vic.gov.au, 2021. [Online]. Available: https://www.betterhealth.vic.gov.au/health/healthyliving/Strong-relationships-strong-health. [Accessed: 18- Aug- 2021].
+
 "Nearly 60 percent of US smartphone owners use phones to manage health", MobiHealthNews, 2021. [Online]. Available: https://www.mobihealthnews.com/content/nearly-60-percent-us-smartphone-owners-use-phones-manage-health. [Accessed: 18- Aug- 2021].
+
 "Stanford research shows that working together boosts motivation | Stanford News Release", News.stanford.edu, 2021. [Online]. Available: https://news.stanford.edu/pr/2014/pr-motivation-walton-carr-091514.html. [Accessed: 18- Aug- 2021].
+
 "90% of People Quit After 3 Months of Hitting the Gym", Lifehack, 2021. [Online]. Available: https://www.lifehack.org/649556/90-of-people-quit-after-3-months-of-hitting-the-gym-heres-how-to-be-the-exception. [Accessed: 18- Aug- 2021].
+
 "Contextual Influences on the Use and Non-Use of Digital Technology While Exercising at the Gym [Online]. Available: https://dl.acm.org/doi/10.1145/2702123.2702384. [Accessed: 18- Aug- 2021].
+
 “Gamification in Fitness Apps How do Leaderboards influence Exercise” [Online]. Available: https://www.researchgate.net/publication/309557443. [Accessed: 18- Aug- 2021].
+
 "Applying the heuristic evaluation method in the evaluation of social aspects of an exercise community", Dl.acm.org, 2021. [Online]. Available: https://dl.acm.org/doi/10.1145/2347504.2347521. [Accessed: 18- Aug- 2021].
