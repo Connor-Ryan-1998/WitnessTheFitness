@@ -3,10 +3,10 @@
 
 ## Summary
 ### Problem identification
-The domain the team will be exploring is the lack of social interaction within a casual gym environment. The team will propose and evaluate whether mobile technology can play its role in filling this gap. From research conducted, it is evident that a large portion of gym-goers intentionally isolate themselves from one another, as well as having the feeling that interactions in the gym are intimidating or unnecessary. Our team aims to build friendships, relationships and acquaintances in the gym through our  social and mobile design considerations of a high fidelity prototype.[REF]
+The domain the team will be exploring is the lack of social interaction within a casual gym environment. The team will propose and evaluate whether mobile technology can play its role in filling this gap. From research conducted, it is evident that a large portion of gym-goers intentionally isolate themselves from one another, as well as having the feeling that interactions in the gym are intimidating or unnecessary. Our team aims to build friendships, relationships and acquaintances in the gym through our  social and mobile design considerations of a high fidelity prototype.
 
 ### Target Audience
-As a team we have identified the target audience as young gym-goers who are both experienced and newcomers. In particular, we are aiming our solution at those who attend the gym 3-4 times a week before or after work. Furthermore, these people do not train in class environments and do not know the majority of their gym from other social circles. These people value both social interaction as well as collaboration in the gym environment. From our research and interview data probing conducted, this was reinforced by participants wanting the practice of collaboration and relationship building within the gym environment. We also found with our target audience, their motivation behind this collaboration stemmed from both continuity in their gym routine as well as establishing new relationships with people with similar aligning interests. [REF] 
+As a team we have identified the target audience as young gym-goers who are both experienced and newcomers. In particular, we are aiming our solution at those who attend the gym 3-4 times a week before or after work. Furthermore, these people do not train in class environments and do not know the majority of their gym from other social circles. These people value both social interaction as well as collaboration in the gym environment. From our research and interview data probing conducted, this was reinforced by participants wanting the practice of collaboration and relationship building within the gym environment. We also found with our target audience, their motivation behind this collaboration stemmed from both continuity in their gym routine as well as establishing new relationships with people with similar aligning interests.
 
 ## Poster ---> [Link To Poster](https://www.canva.com/design/DAEtJu9P-EM/I3lHqF5Cqkq8719l5M7tYw/view?utm_content=DAEtJu9P-EM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 <img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/Wed%20Poster.png" width="100%" height= "100%">
@@ -79,7 +79,7 @@ After establishing a set of initial design requirements the team established an 
 With this user flow and design requirements the team listed a set of features and functions from this user flow and figma low-fidelity prototype 
 
 ### User Testing Evaluation
-To understand whether this addressed our target audience's problem space, the team conducted interview testing sessions. During this session the target audience participants digitally completed tasks of logging in, creating profile, matching, chatting, viewing leaderboard and collaborating at a gym. At each task, the participants were asked to ‘Think Aloud’. After conducting this test, the following was deduced about our design concept and its requirements.
+To understand whether this addressed our target audience's problem space, the team conducted interview testing sessions. The particpants integrated included 5 adults aged 20-26 that were a mix of new and experienced gym goers and mix of genders, of whom consented and signed a consent form to be involved in this project. During this session the target audience participants digitally completed tasks of logging in, creating profile, matching, chatting, viewing leaderboard and collaborating at a gym. At each task, the participants were asked to ‘Think Aloud’. After conducting this test, the following was deduced about our design concept and its requirements.
 
 * Gym schedule didn’t need to exactly match at least once a week wassignificant enough
 * Privacy concern some participants comfortable with their local gym being on theirprofile 
@@ -122,7 +122,25 @@ To begin interacting and using the high fedility prototype
     * View score and rank of your user
     * Interact to send message to ranked leaderboard users  
 
-#### User Testing Evaluation
+### User Testing Evaluation
+#### **Feedback**
+After deploying our web based mobile application, the team intragted the same participants as previously were present in a 'Think Aloud', testing session. As above these users completed tasks in the phases of sign up, profile, my freinds, matching, messages and leaderboard. Once their observations transcripts were written, as post test interview was conducted. Probing participants evaluation of wether our product does improve the social aspect of collaboration in the gym amoung young adults that are either experienced or newcomers to the gym. The following feedback was attained:
+
+* Missing ability to create username instead of email in sign up page would
+* Phone number being publically on profile feels invasive
+* Gym times of non freinds feels invasive, potential stalking by non-friends
+* Gender of male is "Male" and Female is "F", inconsistency
+* Users likened apperance of profile organisation of information into personal, interests and sessions
+* Users liked towards knowing when a friend is offline/online to not disturb when not wanting to be messaged
+* Missing display of whether message is sent or recieved diffcult to communicate by knowing if friend is interested in talking
+* Being able to direct message leaders not likened, some leaders may not preffered to be messaged by non-friends
+* Missing explanation of how score is attained, would like an FAQ/Help section
+* When matching good to display name of gym on main macthing page since single user could use multiple gyms  
+* Unessassary add freind on my friends section, assumption don't need to add an already added friend
+* Showing career on matches creates another point of interest and point of discussion when talking at gym or messages
+
+#### **Insights**
+
 
 ## Conclusion 
 
