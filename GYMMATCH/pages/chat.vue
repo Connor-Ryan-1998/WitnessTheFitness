@@ -8,7 +8,7 @@
                     v-model="model"
                     :items="items"
                     :loading="isLoading"
-                    :search-input.sync="search"
+                    search-input.sync="search"
                     color="white"
                     hide-no-data
                     hide-selected
@@ -50,22 +50,21 @@
           </v-badge>
           <v-list-item-content>
             <v-badge v-if="i == 0 || i == 1"
-              bordered
-              overlap
+              inline
               right
               color="#E24E59"
               offset-y="30"
               offset-x="120">
-                <v-list-item-title class="text-h5 mb-1" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
+                <v-list-item-title class="text-h5 mb-1" id="name" to="/" style="font-family: Arial;font-weight: bold">
                 {{ name }}
                 </v-list-item-title>
             </v-badge>
-            <v-list-item-title v-else class="text-h5 mb-1" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
+            <v-list-item-title v-else class="text-h5 mb-1" id="name" to="/" style="font-family: Arial;font-size: 15pt;font-weight: bold;">
                 {{ name }}
             </v-list-item-title>
             <v-list-item-subtitle style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .5;">{{ textEntries[i] }} </v-list-item-subtitle>
           </v-list-item-content>
-           <v-col justify="right" align="right" style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .3;">
+           <v-col justify="right" align="right" style="font-family: Arial;font-size: 12pt;color:#000000;opacity: .3;z-index:0">
              {{Math.floor(Math.random() * i) + 2}} minutes ago
            </v-col>
         </v-list-item>
@@ -111,6 +110,9 @@
 </script>
 
 <style scoped>
+#name{
+  z-index: 9999;
+}
   #leaderboardHeaderCard {
     background-color: #E94057;
   }
