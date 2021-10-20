@@ -3,13 +3,15 @@
     <v-col cols="12" sm="6" md="6">
       <v-card class="pa-md-6 mx-lg-auto"  id="leaderboardHeaderCard">
         <v-card-title class="justify-center">
-            <v-card-text>
+            <v-card-text color="white">
                 <v-autocomplete
                     v-model="model"
                     :items="items"
                     :loading="isLoading"
+                    rounded
                     search-input.sync="search"
                     color="white"
+                    background-color="white"
                     hide-no-data
                     hide-selected
                     item-text="Description"
@@ -17,6 +19,7 @@
                     label="Search..."
                     placeholder="Start typing to Search"
                     return-object
+                    prepend-icon="mdi-database-search"
                 ></v-autocomplete>
             </v-card-text>
         </v-card-title>
@@ -30,7 +33,7 @@
         </v-card-subtitle>
     </v-card>
       <v-card class="pa-md-6 mx-lg-auto">
-        <v-list-item v-for="(name, i) in top10users" :key="name" href="/exampleChat" target="_blank">
+        <v-list-item v-for="(name, i) in top10users" :key="name" to="/exampleChat">
           <v-badge 
               bordered
               overlap
