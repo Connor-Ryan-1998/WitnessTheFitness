@@ -121,8 +121,6 @@ To begin interacting and using the high fedility prototype
     * View scores of top 10 users on leaderboard 
     * View score and rank of your user
     * Interact to send message to ranked leaderboard users  
-* **About us**
-    * [Link to About Us](https://distracted-lalande-3b919e.netlify.app/aboutus    
 
 ### User Testing Evaluation
 #### **Feedback**
@@ -142,9 +140,16 @@ After deploying our web based mobile application, the team intragted the same pa
 * Showing career on matches creates another point of interest and point of discussion when talking at gym or messages
 
 #### **Insights**
-
+* From a mobile design perspective we need more considerations for user privacy
+* Social Interactions digtially are important in maintaing social relationships
+* Communicating digitally prior to physically reduces "awrkwardness" or "breaks the ice"
 
 ## Conclusion 
+With the process of problem identification, research, user interviews, protyping and evaluation the team was able to develop a solution within our domain. We were able to successfully offer a mobile solution tool that 
+
+Limitations
+Future Work
+End Note
 
 ## Task Allocation
 | Student                       | Tasks                                                                   |
@@ -157,7 +162,4 @@ After deploying our web based mobile application, the team intragted the same pa
 | Thuy Trieu Pham (46451570)    | Low-fidelity design, user testing, design iteration, marketing material |
 | Hyun Jeon (42865320)          | Low-fidelity design, prototype layout and functionality                 |
 
-## References
-[1] ResearchGate, 3 Understand, create, evaluate design cycle. 2021.
-
-[2] https://www.pexels.com/videos/
+## References 
