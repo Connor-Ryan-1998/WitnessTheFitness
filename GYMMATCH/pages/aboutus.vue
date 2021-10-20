@@ -20,6 +20,12 @@
               >contact.witnessfirst@gmail.com</a
             >
           </h1>
+          <div class="py-5">
+            <h1 style="color:red text-align:center;">Work Acknowledgement</h1>
+            <h2>All of the images of the user have been acquired from "https://picsum.photos/id"</h2>
+            <h2>All of the coding works are our own and have followed some example codes from vuetify official page https://v15.vuetifyjs.com/</h2>
+          </div>
+          
         </v-col></v-row
       ></v-container
     ></v-app

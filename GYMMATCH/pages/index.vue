@@ -38,6 +38,9 @@
           ><v-btn text>Find Password</v-btn></nuxt-link
         >
       </v-flex>
+      <nuxt-link to="/aboutus" style="text-decoration:none; font-size:20px;"
+          ><v-btn text>About Us</v-btn></nuxt-link
+        >
     </v-container>
   </v-app>
 </template>

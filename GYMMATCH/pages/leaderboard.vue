@@ -21,14 +21,14 @@
                   size="80"
                   rounded = "true">
                  <img
-                  src="https://picsum.photos/id/400/200/300"
+                  src="https://picsum.photos/id/1027/2848/4272"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Julia Dasilva
+              Michelle Smith
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               90
@@ -47,14 +47,14 @@
                   size="100"
                   rounded = "true">
                   <img
-                  src="https://cdn.vuetifyjs.com/images/john.jpg"
+                  src="https://picsum.photos/id/1074/5472/3648"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Tom Nook
+              Bob Menery
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               100
@@ -73,14 +73,14 @@
                   size="80"
                   rounded = "true">
                  <img
-                  src="https://picsum.photos/id/160/200/300"
+                  src="https://picsum.photos/id/433/4752/316"
                   alt="JF"
                  >
                 </v-avatar>
               </v-badge>
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 12pt;color:#9F9F9F;">
-              Mike Lyne
+              Tony Abbot
             </v-row>
             <v-row justify="center" align="center" style="font-family: Arial;font-size: 15pt;color:#17181A;font-weight: bold;">
               70

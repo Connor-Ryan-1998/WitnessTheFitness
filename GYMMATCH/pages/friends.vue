@@ -13,7 +13,7 @@
               bordered
               overlap
               left
-              :content = "i + 4"
+              :content = "i + 1"
               color="#E94057"
               offset-y="60">
             <v-list-item-avatar 
