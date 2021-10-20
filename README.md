@@ -158,7 +158,7 @@ With the process of problem identification, research, user interviews, protyping
 | Hyun Jeon (42865320)          | Low-fidelity design, prototype layout and functionality                 |
 
 ## References 
-"Pixabay" (2021). Retrieved 20 October 2021, from https://pixabay.com/ [Accessed: 22- Sep- 2021].
+"Pixabay" (2021). [Online]. Avaliable: https://pixabay.com/ [Accessed: 22- Sep- 2021].
 
 "77 Gym Membership Statistics, Facts, and Trends [2020/2021]", Athletic shoe reviews, 2021. [Online]. Available: https://runrepeat.com/gym-membership-statistics. [Accessed: 18- Aug- 2021].
 
