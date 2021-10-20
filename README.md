@@ -66,11 +66,17 @@ Analysing these results, drawing from both research conducted and data collectio
 ## Low Fidelity Prototype
 ### User Flow Diagram
 After establishing a set of initial design requirements the team established an initial user flow of logical tasks that our target audience would take.
-[IMGS]
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/1%2B2.PNG" width="150%" height= "150%">
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/check-in.PNG" width="150%" height= "150%">
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/leader%20board%20%2B%20group.PNG" width="150%" height= "150%">
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/matchmaking%2Bmessage.PNG" width="150%" height= "150%">
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/sign%2Bcheck.PNG" width="150%" height= "150%">
+<img src="https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/sign-in.PNG" width="150%" height= "150%">
+
+
 
 ### Low Fidelity Prototype ---> [Figma Model](https://www.figma.com/file/3UpyBwqtW8qMMIbVYR6Uh9/Untitled?node-id=0%3A1) 
 With this user flow and design requirements the team listed a set of features and functions from this user flow and figma low-fidelity prototype 
-[IMGS]
 
 ### User Testing Evaluation
 To understand whether this addressed our target audience's problem space, the team conducted interview testing sessions. During this session the target audience participants digitally completed tasks of logging in, creating profile, matching, chatting, viewing leaderboard and collaborating at a gym. At each task, the participants were asked to ‘Think Aloud’. After conducting this test, the following was deduced about our design concept and its requirements.
