@@ -16,7 +16,8 @@ As a team we have identified the target audience as young gym-goers who are both
 ## Website ---> [Link To Website](https://qq7344.github.io/witnesstheFitness.github.io/)
 [![](https://github.com/Connor-Ryan-1998/WitnessTheFitness/blob/main/Documentation/web.PNG)]("https://qq7344.github.io/witnesstheFitness.github.io/")
 
-## Storyboard --->![Brochure](https://user-images.githubusercontent.com/53187276/137961856-4dd1ba95-f502-4792-95b3-f339f9e4d27c.jpg)
+## Storyboard 
+![Brochure](https://user-images.githubusercontent.com/53187276/137961856-4dd1ba95-f502-4792-95b3-f339f9e4d27c.jpg)
 
 ## Process Documentation
 
