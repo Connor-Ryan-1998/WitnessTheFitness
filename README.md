@@ -134,6 +134,7 @@ After deploying our web based mobile application, the team intragted the same pa
 * Being able to direct message leaders not likened, some leaders may not preffered to be messaged by non-friends
 * Missing explanation of how score is attained, would like an FAQ/Help section
 * When matching good to display name of gym on main macthing page since single user could use multiple gyms  
+* Users likened towards other and session tabs, so they can match with potential gym partners outside of their own gym
 * Unessassary add freind on my friends section, assumption don't need to add an already added friend
 * Showing career on matches creates another point of interest and point of discussion when talking at gym or messages
 
