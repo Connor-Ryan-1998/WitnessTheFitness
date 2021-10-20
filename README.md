@@ -82,7 +82,7 @@ To understand whether this addressed our target audience's problem space, the te
 * Gym schedule didn’t need to exactly match at least once a week wassignificant enough
 * Privacy concern some participants comfortable with their local gym being on theirprofile 
 * Function issue, some participants use multiple gyms, should include featureTo account for multi-gym users 
-* Unhappy with selection of interests choices seemed limiting potential socialinteractions
+* Unhappy with selection of interests choices seemed limiting potential social interactions
 
 ## Medium Fidelity Prototype
 ### Medium Fidelity Prototype  ---> [Adobe XD Model](https://xd.adobe.com/view/26fef389-275e-43b5-8dac-a4a43e1d5cce-73ad/grid) 
