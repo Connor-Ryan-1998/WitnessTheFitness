@@ -35,7 +35,7 @@ Prior to design and development the team investigated our domain of social inter
 
 
 ### Data Collection Analysis 
-After establishing the problem space of a lack of social collaboration and interaction that occurs in the gym environment, our team looked towards conducting data collection in order to assist our design direction. The participants included that of young adults aged 16-28 of whom came from either a gym newcomer or experienced background. After conducting an interview and follow up survey the following were the key takeaways:
+After establishing the problem space of a lack of social collaboration and interaction that occurs in the gym environment, our team looked towards conducting data collection in order to assist our design direction. The participants included that of young adults aged 25-35 of whom came from either a gym newcomer or experienced background. After conducting an interview and follow up survey the following were the key takeaways:
 
 * Mobile application is a preferred platform when digitally socialising 
 * Gym social collaboration would keep gym motivation high
