@@ -100,11 +100,31 @@ After developing the figma model with interactions the same participants as prev
 
 ## High Fidelity Prototype ---> [Mobile Web Application](https://distracted-lalande-3b919e.netlify.app/)
 ### High Fidelity Prototype
-[Instroduce]
-[Instructions]
+To begin interacting and using the high fedility prototype 
+* **Sign Up**
+    * To sign up enter any username and password combination to get access to mobile web application
+* **Profile**
+    * View static details about created acount information
+* **My Friends**
+    * View freinds added on application
+    * View individual friends profile information 
+    * Click to message friend
+* **Matching**
+    * Browse other users in the same session as user
+    * Browse other users not in the same session as user
+    * View matches user profile and interact to message 
+* **Messages**
+    * Send and recieve messages from added friends
+    * View online/offline status of added friends
+    * View time of last message sent/recieved
+* **Leaderboard**
+    * View scores of top 10 users on leaderboard 
+    * View score and rank of your user
+    * Interact to send message to ranked leaderboard users  
 
 #### User Testing Evaluation
 
+## Conclusion 
 
 ## Task Allocation
 | Student                       | Tasks                                                                   |
@@ -116,8 +136,6 @@ After developing the figma model with interactions the same participants as prev
 | Kwan Ho Yip (44764155)        | Low-fidelity design, promotional website, brochure                      |
 | Thuy Trieu Pham (46451570)    | Low-fidelity design, user testing, design iteration, marketing material |
 | Hyun Jeon (42865320)          | Low-fidelity design, prototype layout and functionality                 |
-
-## Conclusion 
 
 ## References
 [1] ResearchGate, 3 Understand, create, evaluate design cycle. 2021.
