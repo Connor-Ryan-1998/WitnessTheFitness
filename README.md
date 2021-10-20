@@ -121,6 +121,8 @@ To begin interacting and using the high fedility prototype
     * View scores of top 10 users on leaderboard 
     * View score and rank of your user
     * Interact to send message to ranked leaderboard users  
+* **About us**
+    * [Link to About Us](https://distracted-lalande-3b919e.netlify.app/aboutus    
 
 ### User Testing Evaluation
 #### **Feedback**
